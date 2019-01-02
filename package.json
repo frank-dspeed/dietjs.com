@@ -6,6 +6,6 @@
 	"dependencies": {
 	    "diet": ">=0.9.1",
 		"diet-ect": ">=0.1.0",
-		"diet-static": ">= 0.1.2"
+		"diet-static": ">=2.2.0"
 	}
 }
